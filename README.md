@@ -17,7 +17,7 @@
         <img src="images/Nextjs-logo.svg" width="120"></img>
     </a>
 </span>
-<span style="padding-left: 20px">
+<span style="padding-left: 20px !important">
     <a href="https://reactjs.org" target="_blank">
         <img src="images/React-icon.svg" width="120"></img>
     </a>
@@ -30,12 +30,12 @@
         <img src="images/Python-logo-notext.svg" width="100"></img>
     </a>
 </span>
-<span style="padding-left: 40px">
+<span style="padding-left: 40px !important">
     <a href="https://nodejs.org" target="_blank">
         <img src="images/Node.js_logo.svg" width="120"></img>
     </a>
 </span>
-<span style="padding-left: 40px">
+<span style="padding-left: 40px !important">
     <a href="https://golang.org" target="_blank">
         <img src="images/Go_Logo_Blue.svg" width="120"></img>
     </a>
@@ -80,8 +80,10 @@
         <img src="images/youtube_social_icon_red.png" width=36></img>
     </a>
 </div>
+<br />
+<br />
 
-For Business Inquiries:
+**For Business Inquiries**
 
 <span style="box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 
               0 1px 5px 0 rgba(0, 0, 0, 0.12), 
@@ -89,6 +91,8 @@ For Business Inquiries:
             transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);">
 ➡ [Contact me](https://mugabits.com/contact)
 </span>
+
+<br />
 
 #### ⚡ Fun fact:
 
@@ -99,9 +103,6 @@ For Business Inquiries:
 True. #palindromes!
 ```
 </div>
-
-<iframe>
-</iframe>
 
 <!--
 
