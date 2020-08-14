@@ -5,6 +5,7 @@
 * All my projects and code challenges
 * A little bit of everything (front end, back end, automation, IaaS)
 * Some examples for problem solving specific issues
+* "I didn't think you could do that" demos
 
 <br />
 <br />
