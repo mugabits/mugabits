@@ -2,16 +2,28 @@
 𝕨𝕖𝕝𝕔𝕠𝕞𝕖 to my corner in Github. 
 
 #### What you will find here:
-* All my projects and code challenges I use
+* All my projects and code challenges
 * A little bit of everything (front end, back end, automation, IaaS)
 * Some examples for problem solving specific issues
 
-#### My preferred languages ones:  
+#### My preferred languages ones:
+FrontEnd
+- Next.js
+- React.js
+
+Back End and Scripting
+- Python
+- Node.js
+- Golang
 
 #### What I have in here:
 
 ![MyTopLanguages](https://github-readme-stats.vercel.app/api/top-langs?username=mugabits&repo=python-projects&layout=compact&theme=dark)
 
+My Favorites
+
+![PythonProjects](https://github-readme-stats.vercel.app/api/pin?username=mugabits&repo=python-projects&theme=dark)
+![JavascriptProjects](https://github-readme-stats.vercel.app/api/pin?username=mugabits&repo=js-projects&theme=dark)
 
 #### My stats:
 
