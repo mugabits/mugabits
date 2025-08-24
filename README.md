@@ -10,49 +10,6 @@
 <br />
 <br />
 
-### My preferred languages
-**FrontEnd**
-
-<span>
-    <a href="https://nextjs.org" target="_blank">
-        <img src="images/Nextjs-logo.svg" width="120"></img>
-    </a>
-</span>
-<span style="padding-left: 20px !important">
-    <a href="https://reactjs.org" target="_blank">
-        <img src="images/React-icon.svg" width="120"></img>
-    </a>
-</span>
-
-**Back End and Scripting**
-
-<span>
-    <a href="https://python.org" target="_blank">
-        <img src="images/Python-logo-notext.svg" width="100"></img>
-    </a>
-</span>
-<span style="padding-left: 40px !important">
-    <a href="https://nodejs.org" target="_blank">
-        <img src="images/Node.js_logo.svg" width="120"></img>
-    </a>
-</span>
-<span style="padding-left: 40px !important">
-    <a href="https://golang.org" target="_blank">
-        <img src="images/Go_Logo_Blue.svg" width="120"></img>
-    </a>
-</span>
-
-<br />
-<br />
-
-#### **What I have in here**
-
-![MyTopLanguages](https://github-readme-stats.vercel.app/api/top-langs?username=mugabits&repo=python-projects&layout=compact&theme=dark)
-
-**My Favorites**
-
-![PythonProjects](https://github-readme-stats.vercel.app/api/pin?username=mugabits&repo=python-projects&theme=dark)
-![JavascriptProjects](https://github-readme-stats.vercel.app/api/pin?username=mugabits&repo=js-projects&theme=dark)
 
 **My Stats**
 
@@ -66,21 +23,21 @@
 ## **Follow me on**
 
 <div>
-    <a href="https://twitter.com/mugabits" target="_blank">
+    <a href="https://x.com/josemugaburu1" target="_blank">
         <img src="images/Twitter_Logo_Blue.png" width=36></img>
     </a>
-    <a href="https://www.instagram.com/mugabits/" target="_blank">
+<!--     <a href="https://www.instagram.com/datatechflow/" target="_blank">
         <img src="images/IG_Glyph_Fill.png" width=36></img>
-    </a>
+    </a> -->
     <a href="https://stackoverflow.com/users/3875230/mugabits?tab=profile" target="_blank">
         <img src="images/so-icon.png" width=36></img>
     </a>
 </div>
-<div>
+<!-- <div>
     <a href="https://www.youtube.com/channel/UCdUtnPbnvIBxIMfKOl4KeAA?view_as=subscriber" target="_blank">
         <img src="images/youtube_social_icon_red.png" width=36></img>
     </a>
-</div>
+</div> -->
 <br />
 <br />
 
@@ -90,7 +47,7 @@
               0 1px 5px 0 rgba(0, 0, 0, 0.12), 
               0 3px 1px -2px rgba(0, 0, 0, 0.2);
             transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);">
-➡ [Contact me](https://mugabits.com/contact)
+➡ [Contact me](https://josemugaburu.com/)
 </span>
 
 <br />
