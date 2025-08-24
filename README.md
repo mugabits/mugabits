@@ -26,18 +26,11 @@
     <a href="https://x.com/josemugaburu1" target="_blank">
         <img src="images/Twitter_Logo_Blue.png" width=36></img>
     </a>
-<!--     <a href="https://www.instagram.com/datatechflow/" target="_blank">
-        <img src="images/IG_Glyph_Fill.png" width=36></img>
-    </a> -->
     <a href="https://stackoverflow.com/users/3875230/mugabits?tab=profile" target="_blank">
         <img src="images/so-icon.png" width=36></img>
     </a>
 </div>
-<!-- <div>
-    <a href="https://www.youtube.com/channel/UCdUtnPbnvIBxIMfKOl4KeAA?view_as=subscriber" target="_blank">
-        <img src="images/youtube_social_icon_red.png" width=36></img>
-    </a>
-</div> -->
+
 <br />
 <br />
 
