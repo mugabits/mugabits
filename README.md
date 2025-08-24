@@ -79,7 +79,7 @@ I jam on AI UX, platform strategy, and scaling eng teams.
 Ping me if you're building something weird, useful, or 5 years too early.
 
 → [LinkedIn](https://linkedin.com/in/josemugaburu)  
-→ [X / Twitter](https://x.com/josemugaburu1)
+→ [X / Twitter](https://x.com/josemugaburu1)  
 → [Business only](mailto:dev@mugabits.com)
 <!-- → [Newsletter](INSERT YOUR NEWSLETTER LINK)  -->
 
