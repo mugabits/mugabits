@@ -20,8 +20,8 @@ Exploring the messy intersection of product, code & chaos.
 ### ⚙️ What I Build
 
 - 🛠️ **Internal AI Playground** – sped up NLP prototyping 3× org-wide  
-- 📊 **Engineering Scorecard Framework** – used for IC→Staff growth clarity  
-- 🔍 **X-ray Observability Layer** – for diagnosing serverless incidents in minutes
+- 📊 **Business Scorecard Framework** – used for strategy clarity and KPIs  
+- 🔍 **X-ray Observability Layer** – for diagnosing serverless incidents in minutes. (Still in progress)
 
 ---
 
