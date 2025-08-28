@@ -11,7 +11,7 @@ Exploring the messy intersection of product, code & chaos.
 
 ### 🧠 Currently
 - Leading platform engineering at **Stealth Startup**
-- Coming Soon: Writing a weekly AI newsletter for Businesses.
+- Coming Soon: Writing a **_weekly AI newsletter for Businesses_**.
 - Prototyping AI-native internal tools
 - Thoughts on [X](https://x.com/josemugaburu1) with [#shouldibuildit](https://x.com/hashtag/shouldibuildit)
 
